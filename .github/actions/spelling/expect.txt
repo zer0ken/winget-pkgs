@@ -1,6 +1,7 @@
 automerge
 denelon
 dkbennett
+cooldown
 Freeware
 GPLv
 Icm
